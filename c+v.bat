@@ -1,5 +1,5 @@
 REM wrap begin
 
-python main.py %*
+python main.py "%*"
 
 REM wrap end
